@@ -19,11 +19,11 @@ class RathishKumar:
     degree      = "B.Sc. Computer Science (2023–2026)"
     college     = "DG Vaishnav College, Chennai"
 
-    stack       = ["Python", "Flask", "MySQL", "HTML/CSS", "Excel"]
-    tools       = ["GitHub", "MS Excel", "MS Word", "PowerPoint"]
+    stack       = ["Python", "MySQL", "HTML/CSS", "Excel"]
+    tools       = ["GitHub", "MS Excel", "Powerbi"]
 
     currently_learning = [
-        "Big Data Analytics",
+        "adavanced analytics",
         "Data Science & ML",
         "Advanced SQL Optimization",
     ]
